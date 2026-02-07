@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature", "properties": { "cell_id": "G00" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.90,38.60],[-77.70,38.60],[-77.70,38.80],[-77.90,38.80],[-77.90,38.60]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G01" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.70,38.60],[-77.50,38.60],[-77.50,38.80],[-77.70,38.80],[-77.70,38.60]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G02" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.50,38.60],[-77.30,38.60],[-77.30,38.80],[-77.50,38.80],[-77.50,38.60]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G03" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.30,38.60],[-77.10,38.60],[-77.10,38.80],[-77.30,38.80],[-77.30,38.60]]] } },
+  
+      { "type": "Feature", "properties": { "cell_id": "G10" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.90,38.80],[-77.70,38.80],[-77.70,39.00],[-77.90,39.00],[-77.90,38.80]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G11" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.70,38.80],[-77.50,38.80],[-77.50,39.00],[-77.70,39.00],[-77.70,38.80]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G12" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.50,38.80],[-77.30,38.80],[-77.30,39.00],[-77.50,39.00],[-77.50,38.80]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G13" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.30,38.80],[-77.10,38.80],[-77.10,39.00],[-77.30,39.00],[-77.30,38.80]]] } },
+  
+      { "type": "Feature", "properties": { "cell_id": "G20" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.90,39.00],[-77.70,39.00],[-77.70,39.20],[-77.90,39.20],[-77.90,39.00]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G21" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.70,39.00],[-77.50,39.00],[-77.50,39.20],[-77.70,39.20],[-77.70,39.00]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G22" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.50,39.00],[-77.30,39.00],[-77.30,39.20],[-77.50,39.20],[-77.50,39.00]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G23" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.30,39.00],[-77.10,39.00],[-77.10,39.20],[-77.30,39.20],[-77.30,39.00]]] } },
+  
+      { "type": "Feature", "properties": { "cell_id": "G30" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.90,39.20],[-77.70,39.20],[-77.70,39.40],[-77.90,39.40],[-77.90,39.20]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G31" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.70,39.20],[-77.50,39.20],[-77.50,39.40],[-77.70,39.40],[-77.70,39.20]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G32" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.50,39.20],[-77.30,39.20],[-77.30,39.40],[-77.50,39.40],[-77.50,39.20]]] } },
+      { "type": "Feature", "properties": { "cell_id": "G33" }, "geometry": { "type": "Polygon", "coordinates": [[[-77.30,39.20],[-77.10,39.20],[-77.10,39.40],[-77.30,39.40],[-77.30,39.20]]] } }
+    ]
+  }
+  
