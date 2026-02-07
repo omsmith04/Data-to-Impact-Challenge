@@ -6,6 +6,8 @@
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 .venv/
+.vscode/
+venvd2i/
 __pycache__/
 *.pyc
 .DS_Store
@@ -26,4 +28,4 @@ land-use/NLCD_*/
 buildings-layer/Deliverable*/
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
-*.parquet
+*.parquetvenvd2i/
