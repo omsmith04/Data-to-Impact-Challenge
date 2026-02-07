@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "cell_id": "FAIRFAX_1",
+          "uhi": 35.0,
+          "water_stress": 2.4,
+          "drought": 1.0,
+          "impervious": 48.0
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-77.55, 38.90],
+            [-77.45, 38.90],
+            [-77.45, 38.98],
+            [-77.55, 38.98],
+            [-77.55, 38.90]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "cell_id": "LOUDOUN_1",
+          "uhi": 28.0,
+          "water_stress": 3.2,
+          "drought": 2.0,
+          "impervious": 30.0
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-77.70, 39.00],
+            [-77.58, 39.00],
+            [-77.58, 39.10],
+            [-77.70, 39.10],
+            [-77.70, 39.00]
+          ]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "cell_id": "PW_1",
+          "uhi": 33.0,
+          "water_stress": 2.6,
+          "drought": 1.2,
+          "impervious": 34.0
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [-77.55, 38.65],
+            [-77.40, 38.65],
+            [-77.40, 38.78],
+            [-77.55, 38.78],
+            [-77.55, 38.65]
+          ]]
+        }
+      }
+    ]
+  }
+  

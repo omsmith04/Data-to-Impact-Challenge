@@ -1,0 +1,29 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+=======
+#python junk
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+=======
+
+
+#large files that are too large to push into git
+*.tif
+*.tiff
+*.gdb/
+*.sqlite
+cache/
+land-use/NLCD_*/
+buildings-layer/Deliverable*/
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+*.parquet
