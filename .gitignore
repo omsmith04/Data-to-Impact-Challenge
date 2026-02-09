@@ -29,3 +29,10 @@ buildings-layer/Deliverable*/
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 *.parquetvenvd2i/
+# --- Added for Water Stress Project ---
+*.zip
+*.csv
+*.gdb
+*.gpkg
+Aqueduct*
+NHDPLUS*
